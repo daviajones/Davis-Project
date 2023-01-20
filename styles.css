@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: pink;
+    font-family: Impact;
+}
+
+.item {
+    background-color: pink;
+    width: 100px; 
+    font-size: 20px;
+    margin: 8px;
+    
+}
+
+.nav-bar {
+	display: flex;
+    justify-content: center;
+    background-color: pink;
+}
+
+a {
+	text-decoration: none;
+    color: white;
+    
+}
+
+img { height: 220px; 
+}
+
+.title {
+	text-decoration: underline;
+    
+}
